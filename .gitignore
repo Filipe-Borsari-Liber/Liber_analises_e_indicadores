@@ -1,0 +1,6 @@
+# Ignorar a pasta _pycache_
+_pyache_/
+
+# Ignorar os arquivos Conect_portal.py e db.py
+Conect_portal.py
+db.py
